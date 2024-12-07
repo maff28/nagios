@@ -2,8 +2,8 @@
 Monitoreo con Nagios, MySQL y NGINX usando Docker
 Maria Salcedo
 
-```html
-version: '3'
+
+```version: '3'
 
 services:
   nagios:
